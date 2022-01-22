@@ -1,0 +1,7 @@
+{
+  "title": "Digital Bank API",
+  "name": "Documentação de API",
+  "version": "1.0.0",
+  "description": "Test application simulating a transaction between accounts.",
+  "url" : "http://localhost/v1"
+}
